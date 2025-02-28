@@ -1,4 +1,4 @@
-<h1 align="center">Damn Vulnerable Bank</h1>
+<h1 align="center">Bank Fraud Detection </h1>
 
 <p align="center">
   <a href="https://github.com/TechPhantomSanjai/Project-Fraud-Detection">
@@ -13,7 +13,7 @@
 </p>
 
 ## About application
-[Damn Vulnerable Bank](https://github.com/TechPhantomSanjai/Project-Fraud-Detection) is designed to be an intentionally vulnerable android application. All the details are documented in the guide, [here](https://rewanthtammana.com/damn-vulnerable-bank/).
+[Bank Fraud Detection](https://github.com/TechPhantomSanjai/Project-Fraud-Detection) is designed to be an intentionally vulnerable android application. All the details are documented in the guide, [here](https://rewanthtammana.com/damn-vulnerable-bank/).
 
 ![Guide overview](./images/damn-vulnerable-bank-guide.png)
 
