@@ -4,23 +4,16 @@
   <a href="https://github.com/TechPhantomSanjai/Project-Fraud-Detection">
     <img src="https://img.shields.io/github/forks/rewanthtammana/Damn-Vulnerable-Bank">
   </a>
-  <a href="https://github.com/rewanthtammana/Damn-Vulnerable-Bank/stargazers">
-    <img src="https://img.shields.io/github/stars/rewanthtammana/Damn-Vulnerable-Bank">
-  </a>
-  <a href="https://github.com/rewanthtammana/Damn-Vulnerable-Bank/blob/master/LICENSE">
+  <a href="https://github.com/TechPhantomSanjai/Project-Fraud-Detection/LICENSE.md">
     <img src="https://img.shields.io/github/license/rewanthtammana/Damn-Vulnerable-Bank">
-  </a>
-  <a href="https://twitter.com/intent/tweet?text=Damn%20Vulnerable%20Bank%20Guide:&url=https%3A%2F%2Fgithub.com%2Frewanthtammana%2FDamn-Vulnerable-Bank">
-    <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Frewanthtammana%2FDamn-Vulnerable-Bank">
-  </a>
 </p>
 
 <p align="center">
-  <b>Guide: https://rewanthtammana.com/damn-vulnerable-bank/</b>
+  <b>Guide: https://github.com/TechPhantomSanjai/Project-Fraud-Detection/</b>
 </p>
 
 ## About application
-[Damn Vulnerable Bank](https://github.com/rewanthtammana/Damn-Vulnerable-Bank) is designed to be an intentionally vulnerable android application. All the details are documented in the guide, [here](https://rewanthtammana.com/damn-vulnerable-bank/).
+[Damn Vulnerable Bank](https://github.com/TechPhantomSanjai/Project-Fraud-Detection) is designed to be an intentionally vulnerable android application. All the details are documented in the guide, [here](https://rewanthtammana.com/damn-vulnerable-bank/).
 
 ![Guide overview](./images/damn-vulnerable-bank-guide.png)
 
@@ -91,15 +84,12 @@ To keep things crisp and interesting, we hidden this section. Do not toggle this
 
 |   |   |   |
 |---|---|---|
-| Rewanth Tammana (Rest API)  | [Github](https://github.com/rewanthtammana/)  | [LinkedIn](https://www.linkedin.com/in/rewanthtammana/)  |
-| Akshansh Jaiswal (Android App)  | [Github](https://github.com/jaiswalakshansh)  | [LinkedIn](https://www.linkedin.com/in/akshanshjaiswal/)  |
-| Hrushikesh Kakade (Android App)  | [Github](https://github.com/HrushikeshK/)  | [LinkedIn](https://www.linkedin.com/in/hrushikeshkakade/)  |
+| Sanjai K (Android App)  | [Github](https://github.com/TechPhantomSanjai)  | [LinkedIn](https://www.linkedin.com/in/sanjai-k-9a9671224)  |
+| Sanjay KK (Rest API)  | [Github]()  | [LinkedIn]()  |
 
 
-Read more, [here](https://rewanthtammana.com/damn-vulnerable-bank/authors.html).
+Read more, [here](https://github.com/TechPhantomSanjai/Project-Fraud-Detection/authors.html).
 
 ## Contributors
 
-<a href = "https://github.com/rewanthtammana/damn-vulnerable-bank/contributors">
-  <img src = "https://contrib.rocks/image?repo=rewanthtammana/damn-vulnerable-bank"/>
-</a>
+
