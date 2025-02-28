@@ -4,7 +4,7 @@
   <a href="https://github.com/TechPhantomSanjai/Project-Fraud-Detection">
     <img src="https://img.shields.io/github/forks/rewanthtammana/Damn-Vulnerable-Bank">
   </a>
-  <a href="https://github.com/TechPhantomSanjai/Project-Fraud-Detection/LICENSE.md">
+  <a href="https://github.com/TechPhantomSanjai/Project-Fraud-Detection/LICENSE">
     <img src="https://img.shields.io/github/license/rewanthtammana/Damn-Vulnerable-Bank">
 </p>
 
