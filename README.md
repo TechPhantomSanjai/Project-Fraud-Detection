@@ -1,7 +1,7 @@
 <h1 align="center">Damn Vulnerable Bank</h1>
 
 <p align="center">
-  <a href="https://github.com/rewanthtammana/Damn-Vulnerable-Bank/fork">
+  <a href="https://github.com/TechPhantomSanjai/Project-Fraud-Detection">
     <img src="https://img.shields.io/github/forks/rewanthtammana/Damn-Vulnerable-Bank">
   </a>
   <a href="https://github.com/rewanthtammana/Damn-Vulnerable-Bank/stargazers">
