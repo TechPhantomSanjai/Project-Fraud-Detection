@@ -84,7 +84,7 @@ To keep things crisp and interesting, we hidden this section. Do not toggle this
 
 |   |   |   |
 |---|---|---|
-| Sanjai K (Android App)  | [Github](https://github.com/TechPhantomSanjai)  | [LinkedIn](sanjay-kk-15244724a)  |
+| Sanjai K (Android App)  | [Github](https://github.com/TechPhantomSanjai)  | [LinkedIn](https://www.linkedin.com/in/sanjai-k-9a9671224)  |
 | Sanjay KK (Rest API)  | [Github](https://github.com/Sanjai-k)  | [LinkedIn](https://www.linkedin.com/in/sanjay-kk-15244724a)  |
 
 
