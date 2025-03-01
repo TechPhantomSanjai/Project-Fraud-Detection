@@ -85,7 +85,7 @@ To keep things crisp and interesting, we hidden this section. Do not toggle this
 |   |   |   |
 |---|---|---|
 | Sanjai K (Android App)  | [Github](https://github.com/TechPhantomSanjai)  | [LinkedIn](sanjay-kk-15244724a)  |
-| Sanjay KK (Rest API)  | [Github](https://github.com/SanjayKK7708)  | [LinkedIn](https://www.linkedin.com/in/sanjay-kk)  |
+| Sanjay KK (Rest API)  | [Github](https://github.com/Sanjai-k)  | [LinkedIn](https://www.linkedin.com/in/sanjay-kk-15244724a)  |
 
 
 Read more, [here](https://github.com/TechPhantomSanjai/Project-Fraud-Detection).
